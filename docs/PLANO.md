@@ -1,29 +1,9 @@
 # Plano e mapeamento para a avaliação
 
-Início do trabalho: 2026-11-04 (semanas 1-3 em atraso, a recuperar primeiro).
-
-## Grelha de avaliação → onde fica evidência
-
-| Critério | Pontos | Evidência no repo/wiki |
-|---|---|---|
-| Funciona a partir dos ficheiros disponibilizados | Implementação (38) | `flowgraphs/`, Wiki: Semana 1 |
-| Pacotes over the air | Implementação | `captures/`, Wiki: Semana 8 |
-| Real time Wireshark | Implementação | `captures/*.pcap`, print do Wireshark na Wiki |
-| Variação: threshold | Implementação | `experiments/week02_sync_short/` |
-| Variação: janela (NWin) | Implementação | `experiments/week01_autocorr/` |
-| Variação: ganho | Implementação | `experiments/week02_sync_short/` (ganho do USRP/ficheiro) |
-| Tentativa de novo bloco | Implementação | branch `feat/novo-bloco`, Wiki: Extras |
-| Extras | Implementação | Wiki: Extras |
-| Profundidade teórica / rigor | Wiki (30) | respostas às perguntas do roadmap, com equações |
-| Análise de resultados | Wiki | figuras + discussão por experiência |
-| Estrutura | Wiki | `docs/wiki/Home.md` como índice |
-| Wiki + GitHub consistentes | Processo | commits regulares, página por semana |
-| Version control | Processo | branches, mensagens claras |
-| Problem solving | Processo | secção "Problemas e soluções" em cada semana |
 
 ## Calendário (recuperação)
 
-Preencher as datas quando souberes a entrega.
+
 
 | Semana | Tema | Experiência principal | Estado |
 |---|---|---|---|
