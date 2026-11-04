@@ -23,6 +23,7 @@ Início do trabalho: 2026-11-04 (semanas 1-3 em atraso, a recuperar primeiro).
 
 ## Calendário (recuperação)
 
+Preencher as datas quando souberes a entrega.
 
 | Semana | Tema | Experiência principal | Estado |
 |---|---|---|---|

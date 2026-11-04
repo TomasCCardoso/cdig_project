@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# GNU Radio gerados
+*.py.bak
+top_block.py
+epy_*.py
+
+# Capturas grandes (guardar fora do git ou usar Git LFS)
+captures/*.cfile
+captures/*.iq
+captures/*.bin
+!captures/.gitkeep
+
+# Editor / OS
+.vscode/
+.DS_Store
