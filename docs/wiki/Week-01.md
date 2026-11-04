@@ -1,0 +1,1 @@
+Potência (equação 2): p[n] = Σ_{k=0}^{Nwin−1} s*[n+k] · s[n+k]
