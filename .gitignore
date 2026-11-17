@@ -17,3 +17,13 @@ captures/*.bin
 # Editor / OS
 .vscode/
 .DS_Store
+# Capturas e saídas binárias (grandes, não vão para o Git)
+captures/*.bin
+results/*.bin
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+results/*.bin
